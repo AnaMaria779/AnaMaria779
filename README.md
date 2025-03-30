@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 🏙 [Chicago Crime Analysis](https://github.com/AnaMaria779/chicago-crime-analysis)
 - 🛒 [E-commerce Dashboard](https://github.com/AnaMaria779/ecommerce-dashboard)
 - 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
-- 🚧 [Road Accidents Analysis](https://github.com/AnaMaria779/road-accidents-analysis)
+- 🚧 [Road Accidents Analysis](https://github.com/AnaMaria779/Road_Accident_Dashboard_Excel.git)
 
 ### 📈 *Power BI Dashboards*
 - 🛍 [Amazon Sales Dashboard](https://github.com/AnaMaria779/amazon-sales-dashboard)
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 🏥 [Health Care Report](https://github.com/AnaMaria779/health-care-report)
 - 🚑 [Hospital Emergency Room Analysis](https://github.com/AnaMaria779/hospital-er-analysis)
 - 🏨 [Hotel Management Dashboard](https://github.com/AnaMaria779/hotel-management)
-- 📊 [Sales Overview Report](https://github.com/AnaMaria779/sales-overview)
+- 📊 [Sales Performance Analysis](https://github.com/AnaMaria779/PowerBI_Sales_Performance_Analysis.git)
 - 🎵 [Spotify Overview](https://github.com/AnaMaria779/spotify-overview)
 
 ### 🗃 *SQL Projects*
@@ -30,14 +30,14 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 🗳 [India Elections Analysis](https://github.com/AnaMaria779/india-elections-analysis)
 
 ### 📊 *Tableau Dashboards*
-- ✈ [Airport Accident Analysis](https://github.com/AnaMaria779/airport-accident-analysis)
+- ✈ [Airport Accident Analysis](https://github.com/AnaMaria779/Airport-Accident-Analysis.git)
 - 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
 - 💰 [Financial Loan Dashboard](https://github.com/AnaMaria779/financial-loan-dashboard)
 - 🗳 [India General Elections Analysis 2024](https://github.com/AnaMaria779/india-elections-2024)
 - 🚘 [Vehicle Insurance Cross-Sell Analysis](https://github.com/AnaMaria779/vehicle-insurance-analysis)
 
 ### 🐍 *Python Projects*
-- 👥 [HR Analytics Dashboard](https://github.com/AnaMaria779/hr-analytics)
+- 👥 [HR Analytics Dashboard](https://github.com/AnaMaria779/HR-Analytics-Dashboard.git)
 - 🎫 [Zendesk Ticket Analysis](https://github.com/AnaMaria779/zendesk-ticket-analysis)
 
 ---
