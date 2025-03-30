@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 
 ## 🚀 Projects
 ### 📊 *Excel Dashboards*
-- ✈ [Aviation Dashboard](https://github.com/AnaMaria779/aviation-dashboard)
+- ✈ [Aviation Dashboard](https://github.com/AnaMaria779/Aviation-Dashboard.git)
 - 🏙 [Chicago Crime Analysis](https://github.com/AnaMaria779/chicago-crime-analysis)
 - 🛒 [E-commerce Dashboard](https://github.com/AnaMaria779/ecommerce-dashboard)
 - 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
