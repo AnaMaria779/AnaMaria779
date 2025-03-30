@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Ana Maria!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analytics+%7C+Business+Intelligence+%7C+SQL+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analytics+%7C+BI+%7C+SQL+%7C+Automation)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm passionate about *data analytics, business intelligence, and automation*. I specialize in transforming raw data into actionable insights using Excel, Power BI, SQL, Tableau, and Python.
 
