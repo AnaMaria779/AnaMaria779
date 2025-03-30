@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Ana Maria! 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+BI+Develper+%7C+IT+Support)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+%7C+BI+%7C+IT+Support)](https://git.io/typing-svg)
 
 
 
