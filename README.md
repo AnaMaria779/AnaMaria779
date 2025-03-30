@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm [Your Name]!
+# 🌟 Hi, I'm [Ana Maria]!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python)](https://git.io/typing-svg)
 
