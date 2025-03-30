@@ -8,37 +8,37 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 
 ## 🚀 Projects
 ### 📊 *Excel Dashboards*
-- ✈ [Aviation Dashboard](#)
-- 🏙 [Chicago Crime Analysis](#)
-- 🛒 [E-commerce Dashboard](#)
-- 🚗 [Electric Vehicle Dashboard](#)
-- 🚧 [Road Accidents Analysis](#)
+- ✈ [Aviation Dashboard](https://github.com/AnaMaria779/aviation-dashboard)
+- 🏙 [Chicago Crime Analysis](https://github.com/AnaMaria779/chicago-crime-analysis)
+- 🛒 [E-commerce Dashboard](https://github.com/AnaMaria779/ecommerce-dashboard)
+- 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
+- 🚧 [Road Accidents Analysis](https://github.com/AnaMaria779/road-accidents-analysis)
 
 ### 📈 *Power BI Dashboards*
-- 🛍 [Amazon Sales Dashboard](#)
-- 💰 [Financial Complaints Overview](#)
-- 🚀 [Blinkit Sales Dashboard](#)
-- 🏥 [Health Care Report](#)
-- 🚑 [Hospital Emergency Room Analysis](#)
-- 🏨 [Hotel Management Dashboard](#)
-- 📊 [Sales Overview Report](#)
-- 🎵 [Spotify Overview](#)
+- 🛍 [Amazon Sales Dashboard](https://github.com/AnaMaria779/amazon-sales-dashboard)
+- 💰 [Financial Complaints Overview](https://github.com/AnaMaria779/financial-complaints)
+- 🚀 [Blinkit Sales Dashboard](https://github.com/AnaMaria779/blinkit-sales)
+- 🏥 [Health Care Report](https://github.com/AnaMaria779/health-care-report)
+- 🚑 [Hospital Emergency Room Analysis](https://github.com/AnaMaria779/hospital-er-analysis)
+- 🏨 [Hotel Management Dashboard](https://github.com/AnaMaria779/hotel-management)
+- 📊 [Sales Overview Report](https://github.com/AnaMaria779/sales-overview)
+- 🎵 [Spotify Overview](https://github.com/AnaMaria779/spotify-overview)
 
 ### 🗃 *SQL Projects*
-- 🏦 [Bank Churn Analysis](#)
-- 💳 [Bank Loan Analysis](#)
-- 🗳 [India Elections Analysis](#)
+- 🏦 [Bank Churn Analysis](https://github.com/AnaMaria779/bank-churn)
+- 💳 [Bank Loan Analysis](https://github.com/AnaMaria779/bank-loan-analysis)
+- 🗳 [India Elections Analysis](https://github.com/AnaMaria779/india-elections-analysis)
 
 ### 📊 *Tableau Dashboards*
-- ✈ [Airport Accident Analysis](#)
-- 🚗 [Electric Vehicle Dashboard](#)
-- 💰 [Financial Loan Dashboard](#)
-- 🗳 [India General Elections Analysis 2024](#)
-- 🚘 [Vehicle Insurance Cross-Sell Analysis](#)
+- ✈ [Airport Accident Analysis](https://github.com/AnaMaria779/airport-accident-analysis)
+- 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
+- 💰 [Financial Loan Dashboard](https://github.com/AnaMaria779/financial-loan-dashboard)
+- 🗳 [India General Elections Analysis 2024](https://github.com/AnaMaria779/india-elections-2024)
+- 🚘 [Vehicle Insurance Cross-Sell Analysis](https://github.com/AnaMaria779/vehicle-insurance-analysis)
 
 ### 🐍 *Python Projects*
-- 👥 [HR Analytics Dashboard](#)
-- 🎫 [Zendesk Ticket Analysis](#)
+- 👥 [HR Analytics Dashboard](https://github.com/AnaMaria779/hr-analytics)
+- 🎫 [Zendesk Ticket Analysis](https://github.com/AnaMaria779/zendesk-ticket-analysis)
 
 ---
 
@@ -67,16 +67,14 @@ I have completed multiple courses to showcase my interest in this area, includin
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ana-maria-nastasiu/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AnaMaria779)
 
 ---
 
 ## 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?AnaMaria779=AnaMaria779&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMaria779&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AnaMaria779=AnaMaria779&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMaria779&layout=compact&cache_seconds=1800)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnaMaria779.AnaMaria779)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnaMaria779)
 
