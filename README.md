@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analysis+%7C+BI+%7C+IT+Support)](https://git.io/typing-svg)
 
 
-Welcome to my GitHub! I'm passionate about *data analytics, business intelligence, and IT Support*. I specialize in **![Transforming Numbers into Narratives](https://img.shields.io/badge/-%F0%9F%93%8A_Tranforming_Numbers_Into_Narratives-blue)** and  **![Turning Insights into Action](https://img.shields.io/badge/-%F0%9F%93%88_Turning_Insights_Into_Action-purple)** using Excel, Power BI, SQL, Tableau, and Python.
+Welcome to my GitHub! I'm passionate about *data analytics, business intelligence, and IT Support*. I specialize in **![Transforming Numbers into Narratives](https://img.shields.io/badge/-%F0%9F%93%8A_Tranforming_Numbers_Into_Narratives-blue)** and  **![Turning Insights into Action](https://%F0%9F%93%88_Turning_Insights_Into_Action-purple)** using Excel, Power BI, SQL, Tableau, and Python.
 
 ---
 
