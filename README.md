@@ -4,7 +4,7 @@
 
 
 
-![Data Analyst](https://img.shields.io/badge/-%F0%9F%93%8A_Data_Analyst-blue) 
+![Transforming Numbers into Narratives](https://img.shields.io/badge/-%F0%9F%93%8A_Tranforming_Numbers_Into_Narratives-blue) 
 ![BI Developer](https://img.shields.io/badge/-%F0%9F%93%88_BI_Developer-purple) 
 ![Data Enthusiast](https://img.shields.io/badge/-%F0%9F%94%8D_Data_Enthusiast-green)
 
