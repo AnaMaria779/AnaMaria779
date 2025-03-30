@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm [Ana Maria]!
+# 🌟 Hi, I'm Ana Maria!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python)](https://git.io/typing-svg)
 
@@ -80,4 +80,3 @@ I have completed multiple courses to showcase my interest in this area, includin
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 
-I've moved your additional skills (Software Configuration, Network Protocols, Generative AI, etc.) to the Skills section while keeping the Certifications & Courses section separate. Let me know if you want any further tweaks!
