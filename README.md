@@ -4,8 +4,8 @@
 
 
 
-![Transforming Numbers into Narratives](https://img.shields.io/badge/-%F0%9F%93%8A_Tranforming_Numbers_Into_Narratives-blue) 
-![BI Developer](https://img.shields.io/badge/-%F0%9F%93%88_BI_Developer-purple) 
+**![Transforming Numbers into Narratives](https://img.shields.io/badge/-%F0%9F%93%8A_Tranforming_Numbers_Into_Narratives-blue)**
+**![Turning Insights into Action](https://img.shields.io/badge/-%F0%9F%93%88_Turning_Insights_Into_Action-purple)**
 ![Data Enthusiast](https://img.shields.io/badge/-%F0%9F%94%8D_Data_Enthusiast-green)
 
 **Transforming Numbers into Narratives | Turning Insights into Action**
