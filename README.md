@@ -67,16 +67,16 @@ I have completed multiple courses to showcase my interest in this area, includin
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ana-maria-nastasiu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
 
 ---
 
 ## 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?AnaMaria779=AnaMaria779&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AnaMaria779=AnaMaria779&layout=compact)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnaMaria779.AnaMaria779)
 
 
