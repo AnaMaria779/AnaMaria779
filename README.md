@@ -1,4 +1,9 @@
 # 🌟 Hi, I'm Ana Maria! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+BI+Develper+%7C+IT+Support)](https://git.io/typing-svg)
+
+
+
+
 ![Data Analyst](https://img.shields.io/badge/-%F0%9F%93%8A_Data_Analyst-blue) 
 ![BI Developer](https://img.shields.io/badge/-%F0%9F%93%88_BI_Developer-purple) 
 ![Data Enthusiast](https://img.shields.io/badge/-%F0%9F%94%8D_Data_Enthusiast-green)
