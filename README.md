@@ -47,7 +47,7 @@ I have completed multiple courses to showcase my interest in this area, includin
 - *Data Management* (IBM)
 - *Data Engineering* (IBM)
 - *Relational Database Administrator* (IBM)
-- *Microsoft ID Specialist*
+- *Microsoft IT Support Specialist*
 - *Microsoft Business Analyst*
 
 ---
