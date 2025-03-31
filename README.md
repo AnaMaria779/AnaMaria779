@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 💰 [Financial Complaints Overview](https://github.com/AnaMaria779/Financial-Complaints-Overview.git)
 - 🚀 [Blinkit Sales Dashboard](https://github.com/AnaMaria779/Blinkit-Sales-Dashboard.git)
 - 🏥 [Health Care Report](https://github.com/AnaMaria779/Heath-Care-Report.git)
-- 🚑 [Hospital Emergency Room Analysis](https://github.com/AnaMaria779/hospital-er-analysis)
+- 🚑 [Hospital Emergency Room Analysis](https://github.com/AnaMaria779/Hospital-Emergency-Room-Analysis.git)
 - 🏨 [Hotel Management Dashboard](https://github.com/AnaMaria779/hotel-management)
 - 📊 [Sales Performance Analysis](https://github.com/AnaMaria779/PowerBI_Sales_Performance_Analysis.git)
 - 🎵 [Spotify Overview](https://github.com/AnaMaria779/spotify-overview)
