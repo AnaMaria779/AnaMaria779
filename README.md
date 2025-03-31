@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 🎵 [Spotify Overview](https://github.com/AnaMaria779/spotify-overview)
 
 ### 🗃 *SQL Projects*
-- 🏦 [Bank Churn Analysis](https://github.com/AnaMaria779/bank-churn)
+- 🏦 [Bank Churn Analysis](https://github.com/AnaMaria779/Bank-Churn-Analysis.git)
 - 💳 [Bank Loan Analysis](https://github.com/AnaMaria779/bank-loan-analysis)
 - 🗳 [India Elections Analysis](https://github.com/AnaMaria779/india-elections-analysis)
 
