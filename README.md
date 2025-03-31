@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 🚧 [Road Accidents Analysis](https://github.com/AnaMaria779/Road_Accident_Dashboard_Excel.git)
 
 ### 📈 *Power BI Dashboards*
-- 🛍 [Amazon Sales Dashboard](https://github.com/AnaMaria779/amazon-sales-dashboard)
+- 🛍 [Amazon Sales Dashboard](https://github.com/AnaMaria779/Amazon-Sales-Dashboard.git)
 - 💰 [Financial Complaints Overview](https://github.com/AnaMaria779/financial-complaints)
 - 🚀 [Blinkit Sales Dashboard](https://github.com/AnaMaria779/blinkit-sales)
 - 🏥 [Health Care Report](https://github.com/AnaMaria779/health-care-report)
