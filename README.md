@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 ### 📈 *Power BI Dashboards*
 - 🛍 [Amazon Sales Dashboard](https://github.com/AnaMaria779/Amazon-Sales-Dashboard.git)
 - 💰 [Financial Complaints Overview](https://github.com/AnaMaria779/Financial-Complaints-Overview.git)
-- 🚀 [Blinkit Sales Dashboard](https://github.com/AnaMaria779/blinkit-sales)
+- 🚀 [Blinkit Sales Dashboard](https://github.com/AnaMaria779/Blinkit-Sales-Dashboard.git)
 - 🏥 [Health Care Report](https://github.com/AnaMaria779/health-care-report)
 - 🚑 [Hospital Emergency Room Analysis](https://github.com/AnaMaria779/hospital-er-analysis)
 - 🏨 [Hotel Management Dashboard](https://github.com/AnaMaria779/hotel-management)
