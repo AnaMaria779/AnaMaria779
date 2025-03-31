@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - ✈ [Aviation Accident Dashboard](https://github.com/AnaMaria779/Aviation-Dashboard.git)
 - 🏙 [Chicago Crime Analysis](https://github.com/AnaMaria779/Chicago-Crime-Analysis.git)
 - 🛒 [E-commerce Dashboard](https://github.com/AnaMaria779/Ecommerce-Dashboards.git)
-- 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/electric-vehicle-dashboard)
+- 🚗 [Electric Vehicle Dashboard](https://github.com/AnaMaria779/Electic-Vehicles-Dashboard.git)
 - 🚧 [Road Accidents Analysis](https://github.com/AnaMaria779/Road_Accident_Dashboard_Excel.git)
 
 ### 📈 *Power BI Dashboards*
