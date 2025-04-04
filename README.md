@@ -36,6 +36,8 @@ Welcome to my GitHub! I'm passionate about *data analytics, business intelligenc
 - 👥 [HR Analytics Dashboard](https://github.com/AnaMaria779/HR-Analytics-Dashboard.git)
 - 🎫 [Zendesk Ticket Analysis](https://github.com/AnaMaria779/zendesk-ticket-analysis)
 
+### 📟 *Machine Learning Projects*
+
 ---
 
 ## 🎓 Certifications & Courses
