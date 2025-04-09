@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Ana Maria!  **![Data Enthusiast](https://img.shields.io/badge/-%F0%9F%94%8D_Data_Enthusiast-green)**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analysis+%7C+Business+Intelligence+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analysis+%7C+Business+Intelligence +%7C)](https://git.io/typing-svg)
 
 Welcome to my GitHub! I'm passionate about *data analytics and business intelligence*. I specialize in transforming raw data into actionable insights using Excel, Power BI, SQL, Tableau, and Python.
 ---
